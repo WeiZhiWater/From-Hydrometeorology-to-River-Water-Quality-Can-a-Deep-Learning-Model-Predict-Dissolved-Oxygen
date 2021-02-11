@@ -5,7 +5,7 @@
 ## Abstract
 
 <p align="center">
-  <img src="/figures/TOC.png" alt="Study site: Coal Creek Watershed" width="800">
+  <img src="/figures/TOC.png" alt="Study site: Coal Creek Watershed" width="700">
 </p>
 
 - Dissolved oxygen (DO) reflects river metabolic pulses and is an essential water quality measure. Our capabilities of forecasting DO however remain elusive. 
