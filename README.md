@@ -27,6 +27,9 @@ Mean DO concentrations (Figure 1b) generally are higher at higherlatitude, with 
   <img src="/figures/DO map.png" alt="DO map" width="800">
 </p>
 
+### Model performance in reproducing in reproducing temporal DO dynamics 
+A detailed look further confirms that the model captures theseasonal dynamics across diverse conditions (Figure 2), despite large data gaps that have challenged the training process. Ingeneral, the model covers the bulk variation of DO concentrations from 5 to 15 mg/L. The model does miss DO peaks and troughs in some cases. Although a few occasional mismatches at extreme concentrations may have a limited impact on NSE values when data are abundant (Figure 2c, g), they could lead to a large penalty in basins with few datapoints in the testing period (e.g., low performance group, Figure 2k).
+
 <p align="center">
   <img src="/figures/figure 2.png" alt="temporal DO dynamics" width="800">
 </p>
