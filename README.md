@@ -20,6 +20,8 @@
 - Model performance in reproducing concentration−temperature (C-T) relationships
 - Deep learning model training insights: relationships between model performance and watershed predictors
 
+### DO records and model performance map
+Mean DO concentrations (Figure 1b) generally are higher at higherlatitude, with the highest (11−12 mg/L) in the Northeast andNorthwest. The lowest mean DO occurs in Florida and issurprisingly low (i.e., 4−5 mg/L) for these minimally disturbedwatersheds, close to the hypoxia limit of 3 mg/L. DOvariations (Figure 1c) are generally lower in the west comparedto the east. For the core evaluation group of 84 sites, the model achieved satisfactory performance (NSE≥0.4) for 74% of the sites, and a mean (median) NSE, RMSE, andPcorrof 0.51 (0.57), 1.2 (1.1), and 0.78 (0.82) mg/L,respectively.
 
 <p align="center">
   <img src="/figures/DO map.png" alt="DO map" width="800">
