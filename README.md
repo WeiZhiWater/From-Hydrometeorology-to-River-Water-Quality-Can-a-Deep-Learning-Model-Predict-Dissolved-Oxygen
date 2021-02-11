@@ -21,3 +21,22 @@
 - Deep learning model training insights: relationships between model performance and watershed predictors
 
 
+<p align="center">
+  <img src="/figures/DO map.png" alt="DO map" width="800">
+</p>
+
+<p align="center">
+  <img src="/figures/figure 2.png" alt="temporal DO dynamics" width="800">
+</p>
+
+<p align="center">
+  <img src="/figures/CQ_figure.png" alt="C-Q figure" width="700">
+</p>
+
+<p align="center">
+  <img src="/figures/CT_figure.png" alt="C-T figure" width="700">
+</p>
+
+<p align="center">
+  <img src="/figures/figure 5.png" alt="correlations" width="800">
+</p>
