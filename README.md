@@ -54,5 +54,5 @@ Temperature controls DO solubility and biological activitiesin water and often d
 Results show RMSE values are positively correlated with the variation of DO concentrations (Figure 5a), that is, standard deviation (R2 = 0.52) and coefficient of variation (R2 = 0.46). This indicates that basins with small DO variations have low RMSE and perform better. The model performance does not correlate to the number of data points(R2 = 0.03, not shown), which is surprising. Model performance also depends on hydroclimatic characteristics (Figure 5c). It performs well in regions with high runoff-ratios (>0.45) and negative p_seasonality where precipitation peaks in winter. Lower performance sites co-occur with positive p_seasonality when precipitation peaks insummer.
 
 <p align="center">
-  <img src="/figures/figure 5.png" alt="correlations" width="800">
+  <img src="/figures/figure 5.png" alt="correlations" width="700">
 </p>
